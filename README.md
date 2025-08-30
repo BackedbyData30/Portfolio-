@@ -7,7 +7,7 @@ Hello! I'm Famous Igbanibo 🤓, a data analyst, Team lead, Young Leader, Climat
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Team lead of BackedbyData, I provide,*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
