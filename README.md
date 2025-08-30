@@ -1,13 +1,14 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Famous Igbanibo 🤓, a data analyst, Team lead, Young Leader, Climate change advocate etc. I have a passion to help people, businesses and organisations achieve higher goals by simply making better decisions backed by data. I believe a good life is as a result of many good choices and so if people can make better choices, they'll eventually make a good life for themselves and i achieve this through analysing data and sharing actionable insights. With experience across Environmental related data ie EIA, SDGs, sales, operations, finance. 
+Hello! I'm Famous Igbanibo 🤓, a data analyst, Team lead, Young Leader, Climate change advocate etc. I have a passion to help people, businesses and organisations achieve higher goals by simply making better decisions backed by data. I believe a good life is as a result of many good choices and so if people can make better choices, they'll eventually make a good life for themselves and i achieve this through analysing data and sharing actionable insights. With interest across Environmental related data ie EIA, SDGs, sales, operations, finance. 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Team lead of BackedbyData, I provide,*
+**- ✅ Data Cleaning and Visualization.**
+A cleaned data is the lens to which insights are seen
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -17,7 +18,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
