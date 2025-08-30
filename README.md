@@ -72,8 +72,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://linkedin.com/in/famousigbanibo">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="we are ">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
